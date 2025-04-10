@@ -1,3 +1,8 @@
 .Trash-0
 .ipynb_checkpoints
-CO2-MaunaLoa
+NOAA-ESRL-CO2-Monthly-MaunaLoa-YearAndConcentration.csv
+co2_mm_mlo-andLink.txt
+.DS_Store
+NOAA-ESRL-CO2-Monthly-MaunaLoa-YearAndConcentration-FlaggedRemoved.txt
+co2_daily_mlo.csv
+co2_mm_mlo-MaunaLoa-CO2Monthly.txt
